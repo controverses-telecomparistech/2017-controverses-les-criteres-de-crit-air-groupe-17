@@ -12,31 +12,31 @@
     {
       "hero": "Piétons",
       "name": "Piétons",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/pietons.png",
       "size": 40000
     },
     {
       "hero": "Cyclistes",
       "name": "Cyclistes",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/velo.png",
       "size": 40000
     },
     {
-      "hero": "Piétons",
-      "name": "Piétons",
-      "img":  "/images/critair/2.jpeg",
+      "hero": "Ecologistes",
+      "name": "Ecologistes",
+      "img":  "/images/carte/ecologistes.png",
       "size": 40000
     },
     {
       "hero": "Chercheurs",
       "name": "Chercheurs",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/scientifique.jpg",
       "size": 40000
     },
     {
       "hero": "Automobilistes", 
       "name": "Automobilistes",
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/automobilistes.png",
       "size": 40000,
       "children": [
     {
@@ -60,7 +60,7 @@
     {
       "hero": "Ligue des conducteurs",
       "name": "Ligue des conducteurs",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/ligueconducteur.png",
       "size": 40000
     }]
     }
@@ -69,30 +69,30 @@
   {
    "hero": "Institutions",
    "name": "Institutions",
-   "img": "/images/critair/1.jpeg",
+   "img": "/images/carte/institutions.png",
    "size": 40000,
    "children": [
     {
       "hero": "Mairie",
       "name": "Mairie", 
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/mairie.png",
       "size": 40000
     },
     {
       "hero": "Ministère",
       "name": "Ministère", 
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/ministere.png",
       "size": 40000
     },
     {
       "hero": "Santé",
       "name": "Santé", 
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/sante.png",
       "size": 40000
     },
     {
       "hero": "Airparif",
-      "name": "Mairie", 
+      "name": "Airparif", 
       "img":  "/images/critair/3.jpeg",
       "size": 40000
     },
@@ -100,7 +100,7 @@
       "hero": "Police", 
       "name": "Police",
       "link": "http://marvel.com/characters/60/thor",
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/police.png",
       "size": 40000
     }
   ]
