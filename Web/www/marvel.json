@@ -22,32 +22,44 @@
       "size": 40000
     },
     {
-      "hero": "Piéton",
-      "name": "Piéton",
+      "hero": "Piétons",
+      "name": "Piétons",
       "img":  "/images/critair/2.jpeg",
       "size": 40000
     },
     {
-      "hero": "Chercheur",
-      "name": "Chercheur",
+      "hero": "Chercheurs",
+      "name": "Chercheurs",
       "img":  "/images/critair/2.jpeg",
       "size": 40000
     },
     {
-      "hero": "Automobiliste", 
-      "name": "Automobiliste",
+      "hero": "Automobilistes", 
+      "name": "Automobilistes",
       "img":  "/images/critair/3.jpeg",
       "size": 40000,
       "children": [
     {
-      "hero": "Ecologistes",
-      "name": "Ecologistes",
+      "hero": "Riches",
+      "name": "Riches",
       "img":  "/images/critair/2.jpeg",
       "size": 40000
     },
     {
-      "hero": "Cyclistes",
-      "name": "Cyclistes",
+      "hero": "Pauvres",
+      "name": "Pauvres",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Banlieue",
+      "name": "Banlieue",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Ligue des conducteurs",
+      "name": "Ligue des conducteurs",
       "img":  "/images/critair/2.jpeg",
       "size": 40000
     }]
@@ -100,8 +112,8 @@
    "size": 40000
   },
     {
-   "hero": "Constructeurs Automibile",
-   "name": "Constructeurs Automibile",
+   "hero": "Constructeurs Automobile",
+   "name": "Constructeurs Automobile",
    "img": "/images/critair/5.jpeg",
    "size": 40000
   } 
