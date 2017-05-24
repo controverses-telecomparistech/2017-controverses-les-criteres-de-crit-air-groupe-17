@@ -1,0 +1,109 @@
+{
+ "name": "Crit'Air",
+ "img": "/images/critair/0.jpeg",
+ "size": 40000,
+ "children": [
+  {
+   "hero": "Citoyens",
+   "name": "Citoyens",
+   "img": "/images/critair/1.jpeg",
+   "size": 40000,
+   "children": [
+    {
+      "hero": "Ecologistes",
+      "name": "Ecologistes",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Cyclistes",
+      "name": "Cyclistes",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Piéton",
+      "name": "Piéton",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Chercheur",
+      "name": "Chercheur",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Automobiliste", 
+      "name": "Automobiliste",
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000,
+      "children": [
+    {
+      "hero": "Ecologistes",
+      "name": "Ecologistes",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Cyclistes",
+      "name": "Cyclistes",
+      "img":  "/images/critair/2.jpeg",
+      "size": 40000
+    }]
+    }
+  ]
+  },
+  {
+   "hero": "Institutions",
+   "name": "Institutions",
+   "img": "/images/critair/1.jpeg",
+   "size": 40000,
+   "children": [
+    {
+      "hero": "Mairie",
+      "name": "Mairie", 
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Ministère",
+      "name": "Ministère", 
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Santé",
+      "name": "Santé", 
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Airparif",
+      "name": "Mairie", 
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000
+    },
+    {
+      "hero": "Police", 
+      "name": "Police",
+      "link": "http://marvel.com/characters/60/thor",
+      "img":  "/images/critair/3.jpeg",
+      "size": 40000
+    }
+  ]
+  },
+  {
+   "hero": "Médias",
+   "name": "Médias",
+   "img": "/images/critair/5.jpeg",
+   "size": 40000
+  },
+    {
+   "hero": "Constructeurs Automibile",
+   "name": "Constructeurs Automibile",
+   "img": "/images/critair/5.jpeg",
+   "size": 40000
+  } 
+ ]
+}
