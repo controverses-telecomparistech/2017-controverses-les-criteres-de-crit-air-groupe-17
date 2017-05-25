@@ -6,7 +6,7 @@
   {
    "hero": "Citoyens",
    "name": "Citoyens",
-   "img": "/images/critair/1.jpeg",
+   "img": "/images/carte/citoyen.jpg",
    "size": 40000,
    "children": [
     {
@@ -42,19 +42,25 @@
     {
       "hero": "Riches",
       "name": "Riches",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/riche.png",
       "size": 40000
     },
     {
       "hero": "Pauvres",
       "name": "Pauvres",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/pauvre.jpg",
+      "size": 40000
+    },
+    {
+      "hero": "FFMC",
+      "name": "FFMC",
+      "img":  "/images/carte/ffmc.jpg",
       "size": 40000
     },
     {
       "hero": "Banlieue",
       "name": "Banlieue",
-      "img":  "/images/critair/2.jpeg",
+      "img":  "/images/carte/banlieu.png",
       "size": 40000
     },
     {
@@ -93,7 +99,7 @@
     {
       "hero": "Airparif",
       "name": "Airparif", 
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/airparif.png",
       "size": 40000
     },
     {
@@ -108,13 +114,13 @@
   {
    "hero": "Médias",
    "name": "Médias",
-   "img": "/images/critair/5.jpeg",
+   "img": "/images/carte/presse.jpg",
    "size": 40000
   },
     {
    "hero": "Constructeurs Automobile",
    "name": "Constructeurs Automobile",
-   "img": "/images/critair/5.jpeg",
+   "img": "/images/carte/constructeur.jpg",
    "size": 40000
   } 
  ]
