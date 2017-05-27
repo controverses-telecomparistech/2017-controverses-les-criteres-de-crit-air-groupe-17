@@ -21,8 +21,9 @@
       <br/>
       <br/>
       <h1>Carte des acteurs</h1>
-      <h2>Cliquer pour voir un résumé</h2>
-      <h3></h3>
+      <div class="col-md-2">Cliquer pour voir un résumé</div>
+          <!-- container for force layout visualisation  -->
+      <div class="col-md-5"><section id="vis"></section> </div>
     </header>
   <div class="navbar-wrapper">
   <div class="container">
@@ -62,9 +63,6 @@
     </div>
 
 
-
-    <!-- container for force layout visualisation  -->
-    <section id="vis"></section> 
   </div><!-- /container -->
 </div><!-- /navbar wrapper -->
 
@@ -170,10 +168,7 @@ function update() {
           // Append hero text
           .on( 'click', function (d) {
               d3.select("h1").html(d.hero); 
-              d3.select("h2").html(d.name); 
-              if (d.link) {d3.select("h3").html ("Take me to " + "<a href='" + d.link + "' >"  + d.hero + " web page ⇢"+ "</a>" );}
-              else {d3.select("h3").html("");}
-               
+              d3.select("div").html(d.name);
            })
 
           .on( 'mouseenter', function() {
@@ -281,6 +276,49 @@ function flatten(root) {
 </script>
   <!-- FOOTER -->
   <footer>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <p class="pull-right"><a href="#">Back to top</a></p>
     <p>Cette page est créée par le groupe 17 d'étic de Télécom Paristech. · </p>
   </footer>
