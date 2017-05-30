@@ -139,7 +139,7 @@
     },
     {
       "hero": "Libération",
-      "name": "Libération : Cet <a href='http://www.liberation.fr/futurs/2016/12/08/une-feuille-de-route-contre-la-pollution_1534008'>article</a> de Libération veut mettre l’accent sur le besoin urgent de lutter contre la pollution et montrer la pertinence des nombreuses mesures déjà prises par le gouvernement. Il soutient donc la mesure du Certificat Qualité de l’air.",
+      "name": "Cet <a href='http://www.liberation.fr/futurs/2016/12/08/une-feuille-de-route-contre-la-pollution_1534008'>article</a> de Libération veut mettre l’accent sur le besoin urgent de lutter contre la pollution et montrer la pertinence des nombreuses mesures déjà prises par le gouvernement. Il soutient donc la mesure du Certificat Qualité de l’air.",
       "link" : "http://www.developpement-durable.gouv.fr",
       "img":  "/images/carte/libe.png",
       "size": 40000
@@ -162,7 +162,7 @@
   },
     {
    "hero": "Constructeurs Automobile",
-   "name": "Sur la dernière décennie les constructeurs automobiles se sont efforcés de respecter les normes anti-pollution qui visent à réduire les émissions de CO2, et de suivre l’idée générale d’abandon du diesel. Les moteurs en vogue sont ainsi des moteurs de petite cylindrée, tournant à l’essence, avec un nombre de cylindres réduits. On peut citer par exemple la gamme EcoBoost de Ford ou la gamme EB Puretech du groupe PSA, moteurs 3 cylindres dotés de turbocompresseurs et de systèmes à injection directe, qui sont très populaires. Dans le milieu des voitures sport, un modèle emblématique est le moteur de 360 cheveux qui alimente la Mercedes Classe A, qui se cantonne à 4 cylindres avec une cylindrée de 2 litres. Le paris est réussi : pas de diesel, peu de CO2. Mais l’injection directe et les turbos sont également émetteurs de particules fines.",
+   "name": "Sur la dernière décennie les constructeurs automobiles se sont efforcés de respecter les normes anti-pollution qui visent à réduire les émissions de CO2, et de suivre l’idée générale d’abandon du diesel. Les moteurs en vogue sont ainsi des moteurs de petite cylindrée, tournant à l’essence, avec un nombre de cylindres réduits. On peut citer par exemple la gamme EcoBoost de Ford ou la gamme EB Puretech du groupe PSA, moteurs 3 cylindres dotés de turbocompresseurs et de systèmes à injection directe, qui sont très populaires. Dans le milieu des voitures sport, un modèle emblématique est le moteur de 360 cheveux qui alimente la Mercedes Classe A, qui se cantonne à 4 cylindres avec une cylindrée de 2 litres. Le pari est réussi : pas de diesel, peu de CO2. Mais l’injection directe et les turbos sont également émetteurs de particules fines.",
    "img": "/images/carte/constructeur.jpg",
    "size": 40000
   } 
