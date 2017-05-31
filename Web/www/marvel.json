@@ -12,19 +12,19 @@
    "children": [
     {
       "hero": "Piétons",
-      "name": "Piétons",
+      "name": "Font partie de cette catégorie ceux qui se déplacent à pied, car non propriétaire d’un véhicule. La vignette Crit’air fait rentrer un nouveau groupe dans cette catégorie : les conducteurs qui ont une voiture datant d’avant 1997, et bientôt, ceux qui n’auraient pas encore acheté leur vignette, ne pourront plus circuler en voiture, donc sont restreints à prendre les transports en commun.",
       "img":  "/images/carte/pietons.png",
       "size": 40000
     },
     {
       "hero": "Cyclistes",
-      "name": "Cyclistes",
+      "name": "La mesure de la vignette Crit’air sera complétée par des aides pour profiter du Velib' et/ou de l'Autolib' et même pour acheter un vélo, tandis que le Plan Vélo permettra de doubler le kilométrage des pistes cyclables pour atteindre 1 400 km de linéaire dédié d'ici 2020. Objectif : 15 % de déplacements avec ce mode de transport rapide, économique et écologique, contre 5 % aujourd'hui. (<a href='https://www.notre-planete.info/actualites/4496-vignette-automobile-pollution-air'>source</a>)",
       "img":  "/images/carte/velo.png",
       "size": 40000
     },
     {
       "hero": "Ecologistes",
-      "name": "Ecologistes",
+      "name": "De manière générale, les écologistes sont soutiennent l’utilisation des véhicules électriques, des voitures à l’hydrogène et à l’eau, du GPL (moins polluant que le diesel), de la voiture à air comprimé, l’agrocarburant ou la voiture hybride, pour réduire l’utilisation des voitures diesel (émetteurs de particules fines) ou à essence (émetteurs de monoxyde de carbone) (<a href='http://m-e-i.fr/blog/une-voiture-propre-c-est-quoi'>source</a>). Certaines sociétés œuvrant pour le climat et l'environnement, comme <a href='https://www.green-zones.eu/fr/menu/vignettes-et-pastilles-europeennes/la-vignette-critair-francaise.html>)Green-Zone.eu</a>, tentent d'informer au mieux sur les vignettes, sans donner d’avis particulier. <a href='https://www.notre-planete.info/actualites/4496-vignette-automobile-pollution-air'>D’autres</a> espèrent que la mesure marchera et incitera à un développement d’une circulation plus douce et d’un meilleur réseau de transports en commun pour les régions moins desservies.",
       "img":  "/images/carte/ecologistes.png",
       "size": 40000
     },
@@ -42,13 +42,13 @@
       "children": [
     {
       "hero": "Riches",
-      "name": "Riches",
+      "name": "Selon <a href='http://www.agoravox.fr/actualites/politique/article/la-politique-anti-pauvres-d-anne-188447'>cet article</a>, la mesure des vignettes Crit’air favorise les « riches », désignés comme ceux qui peuvent s’acheter des voitures neuves (électriques, hybrides, essence, ou diesel). La mesure ferait augmenter les ventes de véhicules neufs, les bénéfices des constructeurs automobiles et d'Autolib, les dividendes des actionnaires, et mettre en place un système pour taxer les franciliens par un système de vignette.",
       "img":  "/images/carte/riche.png",
       "size": 40000
     },
     {
       "hero": "Pauvres",
-      "name": "Pauvres",
+      "name": "Selon une <a href='http://www.udelcim.com/public/?p=posts.show&id=17'>étude publique</a> menée par l’UDELCIM (Union pour la Défense de l’Egalité et la Liberté de Circuler Motorisé), 35% des sondés pensent que cette mesure pénalise les revenus modestes et exclue les populations les plus pauvres, puisqu’ils n’ont pas les moyens de s’acheter un nouveau véhicule.",
       "img":  "/images/carte/pauvre.jpg",
       "size": 40000
     },
@@ -61,7 +61,7 @@
     },
     {
       "hero": "Banlieue",
-      "name": "Banlieue",
+      "name": "Selon les <a href='http://boitierrouge.com/2016/06/27/pollution-le-diktat-inique-de-madame-hidalgo/'>automobilistes</a>, la mesure du certificat de qualité de l’air satisfait le parisien intra-muros qui n’a pas besoin de voiture et peut se déplacer en bus, métro, RER, Autolib ou Vélib. Au contraire, elle jette la difficulté sur les conducteurs de banlieue, là où les transports en communs sont moindres.",
       "img":  "/images/carte/banlieu.png",
       "size": 40000
     },
