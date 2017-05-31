@@ -61,7 +61,7 @@ body {
 .smart-popin .sp-cell {
     display: table-cell;
     vertical-align: middle;
-    padding: 10px;
+    padding: 40px;
 }
 
 .smart-popin {
