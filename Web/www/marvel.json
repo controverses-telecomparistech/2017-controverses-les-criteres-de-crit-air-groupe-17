@@ -29,8 +29,8 @@
       "size": 40000
     },
     {
-      "hero": "Chercheurs",
-      "name": "Chercheurs",
+      "hero": "Scientifiques",
+      "name": "La pollution aux particules fines mobilise les scientifiques depuis une quarantaine d’années environ et aujourd’hui les publications sont très régulières. En 1991, l’American Review Of Respiratoy Disease publie une étude aujourd’hui célèbre sur le lien entre le taux de particules et la prévalence de maladies respiratoires, qui montre que même à des niveaux jugés inoffensifs à l’époque, les PM10 et PM2.5 ont des effets néfastes. Depuis, de nombreuses études similaires ont été réitérées. En Juin 2016, l’Agence Régionale Santé publie un rapport évaluant à 48000 morts en France liés aux particules, dont 17000 qui pourraient être évités si les recommandations OMS étaient respectées. En parallèle, de nombreuses recherches existent visant à réduire les émissions aux particules fines des voitures, dans tous les secteurs R&D des constructeurs automobiles. D’autres acteurs indépendants prennent également part à un diverses recherches. On peut citer une équipe qui développe actuellement un système de récupération des particules fines au niveau des plaquettes de freins.",
       "img":  "/images/carte/scientifique.jpg",
       "size": 40000
     },
@@ -54,7 +54,7 @@
     },
     {
       "hero": "FFMC",
-      "name": "FFMC",
+      "name": "La Fédération Française des Motards (FFMC) <a href='http://www.ffmc.asso.fr/spip.php?article6709'>dénigre</a> la vignette. Les motards présentent les 2 roues motorisés (2RM) comme une solution écologique. D’une part, ces véhicules contribuent au désengorgement du trafic routier dans les agglomérations. D’autre part, les 2RM sont toujours utilisées au moins à 50% de leur capacité alors que la plupart des voitures 5 places sont occupées par une seule personne. C’est pourquoi ils souhaitent ne pas être concernés par la vignette et se battent pour qu’elle s’applique uniquement aux véhicules plus encombrants.",
       "link" : "http://www.ffmc.asso.fr",
       "img":  "/images/carte/ffmc.jpg",
       "size": 40000
@@ -67,14 +67,14 @@
     },
     {
       "hero": "40 millions d'automobilistes",
-      "name": "40 millions d'automobilistes",
+      "name": "L’association « 40 millions d’automobilistes » <a href='https://www.40millionsdautomobilistes.com/flash-actu/vignette-critair-une-operation-lucrative-pour-letat'>dénonce </a> une opération de communication qui ne célèbre en réalité que l’achat forcé d’une pastille vouée à disparaître dans quelques années et une opération lucrative pour l’État. Pour eux, la vignette Crit’Air subira le même sort que la Pastille Verte. Ils insistent sur les autres noms de la vignette, beaucoup plus axés sur la communication politique, tels que « vignette ROYAL » en référence à Ségolène ROYAL.",
       "link" : "https://www.40millionsdautomobilistes.com",
       "img":  "/images/carte/40ma.png",
       "size": 40000
     },
     {
       "hero": "Ligue des conducteurs",
-      "name": "Ligue des conducteurs",
+      "name": "La Ligue de défense des conducteurs est une association fondée en 2009, il s’agit d’un groupe de pression en matière de circulation automobile. Elle a pour but la défense des conducteurs, elle prône une réglementation qui préserve les libertés et la sécurité de chacun. La ligue de défense des conducteurs n’est pas fondamentalement contre la vignette Crit’Air. Cependant, elle estime que les critères ne sont pas justes : il faudrait tenir compte de la pollution réelle émise par le véhicule. Il faudrait orienter les critères vers un aspect technique plutôt que de fonder la vignette sur l’âge et la motorisation du véhicule.",
       "link" : "http://www.liguedesconducteurs.org",
       "img":  "/images/carte/ligueconducteur.png",
       "size": 40000
