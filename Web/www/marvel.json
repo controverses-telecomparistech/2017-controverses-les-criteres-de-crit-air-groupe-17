@@ -1,66 +1,82 @@
 {
- "name": "Crit'Air",
+ "hero": "Crit'Air",
+ "name": "Vignette crit'air",
  "img": "/images/critair/0.jpeg",
  "size": 40000,
  "children": [
   {
    "hero": "Citoyens",
    "name": "Citoyens",
-   "img": "/images/critair/1.jpeg",
+   "img": "/images/carte/citoyen.jpg",
    "size": 40000,
    "children": [
     {
       "hero": "Piétons",
-      "name": "Piétons",
-      "img":  "/images/critair/2.jpeg",
+      "name": "Font partie de cette catégorie ceux qui se déplacent à pied, car non propriétaire d’un véhicule. La vignette Crit’air fait rentrer un nouveau groupe dans cette catégorie : les conducteurs qui ont une voiture datant d’avant 1997, et bientôt, ceux qui n’auraient pas encore acheté leur vignette, ne pourront plus circuler en voiture, donc sont restreints à prendre les transports en commun.",
+      "img":  "/images/carte/pietons.png",
       "size": 40000
     },
     {
       "hero": "Cyclistes",
-      "name": "Cyclistes",
-      "img":  "/images/critair/2.jpeg",
+      "name": "La mesure de la vignette Crit’air sera complétée par des aides pour profiter du Velib' et/ou de l'Autolib' et même pour acheter un vélo, tandis que le Plan Vélo permettra de doubler le kilométrage des pistes cyclables pour atteindre 1 400 km de linéaire dédié d'ici 2020. Objectif : 15 % de déplacements avec ce mode de transport rapide, économique et écologique, contre 5 % aujourd'hui. (<a href='https://www.notre-planete.info/actualites/4496-vignette-automobile-pollution-air'>source</a>)",
+      "img":  "/images/carte/velo.png",
       "size": 40000
     },
     {
-      "hero": "Piétons",
-      "name": "Piétons",
-      "img":  "/images/critair/2.jpeg",
+      "hero": "Ecologistes",
+      "name": "De manière générale, les écologistes soutiennent l’utilisation des véhicules électriques, des voitures à l’hydrogène et à l’eau, du GPL (moins polluant que le diesel), de la voiture à air comprimé, l’agrocarburant ou la voiture hybride, pour réduire l’utilisation des voitures diesel (émetteurs de particules fines) ou à essence (émetteurs de monoxyde de carbone) (<a href='http://m-e-i.fr/blog/une-voiture-propre-c-est-quoi'>source</a>). Certaines sociétés œuvrant pour le climat et l'environnement, comme <a href='https://www.green-zones.eu/fr/menu/vignettes-et-pastilles-europeennes/la-vignette-critair-francaise.html>)Green-Zone.eu</a>, tentent d'informer au mieux sur les vignettes, sans donner d’avis particulier. <a href='https://www.notre-planete.info/actualites/4496-vignette-automobile-pollution-air'>D’autres</a> espèrent que la mesure marchera et incitera à un développement d’une circulation plus douce et d’un meilleur réseau de transports en commun pour les régions moins desservies.",
+      "img":  "/images/carte/ecologistes.png",
       "size": 40000
     },
     {
-      "hero": "Chercheurs",
-      "name": "Chercheurs",
-      "img":  "/images/critair/2.jpeg",
+      "hero": "Scientifiques",
+      "name": "La pollution aux particules fines mobilise les scientifiques depuis une quarantaine d’années environ et aujourd’hui les publications sont très régulières. En 1991, l’American Review Of Respiratoy Disease publie une étude aujourd’hui célèbre sur le lien entre le taux de particules et la prévalence de maladies respiratoires, qui montre que même à des niveaux jugés inoffensifs à l’époque, les PM10 et PM2.5 ont des effets néfastes. Depuis, de nombreuses études similaires ont été réitérées. En Juin 2016, l’Agence Régionale Santé publie un rapport évaluant à 48000 morts en France liés aux particules, dont 17000 qui pourraient être évités si les recommandations OMS étaient respectées. En parallèle, de nombreuses recherches existent visant à réduire les émissions aux particules fines des voitures, dans tous les secteurs R&D des constructeurs automobiles. D’autres acteurs indépendants prennent également part à un diverses recherches. On peut citer une équipe qui développe actuellement un système de récupération des particules fines au niveau des plaquettes de freins.",
+      "img":  "/images/carte/scientifique.jpg",
       "size": 40000
     },
     {
       "hero": "Automobilistes", 
       "name": "Automobilistes",
-      "img":  "/images/critair/3.jpeg",
+      "img":  "/images/carte/automobilistes.png",
       "size": 40000,
       "children": [
     {
       "hero": "Riches",
-      "name": "Riches",
-      "img":  "/images/critair/2.jpeg",
+      "name": "Selon <a href='http://www.agoravox.fr/actualites/politique/article/la-politique-anti-pauvres-d-anne-188447'>cet article</a> d'agoravox, la mesure des vignettes Crit’air favorise les « riches », désignés comme ceux qui peuvent s’acheter des voitures neuves (électriques, hybrides, essence, ou diesel). La mesure ferait augmenter les ventes de véhicules neufs, les bénéfices des constructeurs automobiles et d'Autolib, les dividendes des actionnaires, et mettre en place un système pour taxer les franciliens par un système de vignette.",
+      "img":  "/images/carte/riche.png",
       "size": 40000
     },
     {
       "hero": "Pauvres",
-      "name": "Pauvres",
-      "img":  "/images/critair/2.jpeg",
+      "name": "Selon une <a href='http://www.udelcim.com/public/?p=posts.show&id=17'>étude publique</a> menée par l’UDELCIM (Union pour la Défense de l’Egalité et la Liberté de Circuler Motorisé), 35% des sondés pensent que cette mesure pénalise les revenus modestes et exclue les populations les plus pauvres, puisqu’ils n’ont pas les moyens de s’acheter un nouveau véhicule.",
+      "img":  "/images/carte/pauvre.jpg",
+      "size": 40000
+    },
+    {
+      "hero": "FFMC",
+      "name": "La Fédération Française des Motards (FFMC) <a href='http://www.ffmc.asso.fr/spip.php?article6709'>dénigre</a> la vignette. Les motards présentent les 2 roues motorisés (2RM) comme une solution écologique. D’une part, ces véhicules contribuent au désengorgement du trafic routier dans les agglomérations. D’autre part, les 2RM sont toujours utilisées au moins à 50% de leur capacité alors que la plupart des voitures 5 places sont occupées par une seule personne. C’est pourquoi ils souhaitent ne pas être concernés par la vignette et se battent pour qu’elle s’applique uniquement aux véhicules plus encombrants.",
+      "link" : "http://www.ffmc.asso.fr",
+      "img":  "/images/carte/ffmc.jpg",
       "size": 40000
     },
     {
       "hero": "Banlieue",
-      "name": "Banlieue",
-      "img":  "/images/critair/2.jpeg",
+      "name": "Selon les <a href='http://boitierrouge.com/2016/06/27/pollution-le-diktat-inique-de-madame-hidalgo/'>automobilistes</a>, la mesure du certificat de qualité de l’air satisfait le parisien intra-muros qui n’a pas besoin de voiture et peut se déplacer en bus, métro, RER, Autolib ou Vélib. Au contraire, elle jette la difficulté sur les conducteurs de banlieue, là où les transports en communs sont moindres.",
+      "img":  "/images/carte/banlieu.png",
+      "size": 40000
+    },
+    {
+      "hero": "40 millions d'automobilistes",
+      "name": "L’association « 40 millions d’automobilistes » <a href='https://www.40millionsdautomobilistes.com/flash-actu/vignette-critair-une-operation-lucrative-pour-letat'>dénonce </a> une opération de communication qui ne célèbre en réalité que l’achat forcé d’une pastille vouée à disparaître dans quelques années et une opération lucrative pour l’État. Pour eux, la vignette Crit’Air subira le même sort que la Pastille Verte. Ils insistent sur les autres noms de la vignette, beaucoup plus axés sur la communication politique, tels que « vignette ROYAL » en référence à Ségolène ROYAL.",
+      "link" : "https://www.40millionsdautomobilistes.com",
+      "img":  "/images/carte/40ma.png",
       "size": 40000
     },
     {
       "hero": "Ligue des conducteurs",
-      "name": "Ligue des conducteurs",
-      "img":  "/images/critair/2.jpeg",
+      "name": "La Ligue de défense des conducteurs est une association fondée en 2009, il s’agit d’un groupe de pression en matière de circulation automobile. Elle a pour but la défense des conducteurs, elle prône une réglementation qui préserve les libertés et la sécurité de chacun. La ligue de défense des conducteurs n’est pas fondamentalement contre la vignette Crit’Air. Cependant, elle estime que les critères ne sont pas justes : il faudrait tenir compte de la pollution réelle émise par le véhicule. Il faudrait orienter les critères vers un aspect technique plutôt que de fonder la vignette sur l’âge et la motorisation du véhicule.",
+      "link" : "http://www.liguedesconducteurs.org",
+      "img":  "/images/carte/ligueconducteur.png",
       "size": 40000
     }]
     }
@@ -69,52 +85,85 @@
   {
    "hero": "Institutions",
    "name": "Institutions",
-   "img": "/images/critair/1.jpeg",
+   "img": "/images/carte/institutions.png",
    "size": 40000,
    "children": [
     {
       "hero": "Mairie",
-      "name": "Mairie", 
-      "img":  "/images/critair/3.jpeg",
+      "name": "La mairie de Paris est une administration où siège les élus municipaux et départementaux de Paris. La mairie de Paris est un acteur fondamental pour faire appliquer des arrêtés sur la vignette Crit’air. En effet, elle a récemment appliqué un arrêté instaurant une zone à circulation restreinte dans Paris. Une zone à circulation restreinte est créée pour une durée de 5 ans sur l’ensemble des voies de la commune de Paris, à l’exception de celles listées en annexe au présent arrêté.",
+      "link" : "http://www.paris.fr",
+      "img":  "/images/carte/mairie.png",
       "size": 40000
     },
     {
       "hero": "Ministère",
-      "name": "Ministère", 
-      "img":  "/images/critair/3.jpeg",
+      "name": "Ce dispositif élaboré, et dévoilé en novembre 2016, par le ministère de l’Environnement, de l’Énergie et de la Mer, en collaboration avec le ministère de l’Intérieur, établit désormais une classification des véhicules (véhicules particuliers, utilitaires légers, poids lourds, bus cars autocars et deux roues motorisés) afin de donner aux moins polluants des avantages de circulation.Selon l’ancien Ministère de l’Environnement, de l’Énergie et de la Mer, le transport routier est l’une des sources importantes de <a href='http://www.developpement-durable.gouv.fr/pollution-lair-origines-situation-et-impacts'>pollution atmosphérique</a>, notamment dans les agglomérations. Son but est de favoriser les véhicules les moins polluants pour réduire la pollution atmosphérique et ses impacts sur la santé de la population. Il demande donc aux collectivités territoriales de moduler les dispositifs applicables aux véhicules, en particulier les conditions de circulation et de stationnement. A Paris, il s’agit de la mise en place des ZCR, zones à circulation restreinte, grâce aux vignettes Crit’Air du certificat qualité de l’air. Sources: <a href='http://www.prefectures-regions.gouv.fr/ile-de-france/Documents-publications/Pref-Actualites/2016/Decembre/CRIT-AIR-Plus-qu-un-mois-pour-acheter-votre-vignette'>première<a> et <a href='http://www.developpement-durable.gouv.fr/certificats-qualite-lair-critair'>deuxième</a>",
+      "link" : "http://www.developpement-durable.gouv.fr",
+      "img":  "/images/carte/ministere.png",
       "size": 40000
     },
     {
       "hero": "Santé",
-      "name": "Santé", 
-      "img":  "/images/critair/3.jpeg",
+      "name": "L’Organisation Mondiale de la Santé (OMS) est une institution spécialisée de l’ONU pour la santé publique. Selon sa constitution établie à sa création : « Le but de l’Organisation mondiale de la Santé (…) est d’amener tous les peuples au niveau de santé le plus élevé possible. ». Pour la pollution l’OMS se charge, de manière similaire à Airparif, de réaliser des études sur la pollution. Celles-ci sont cependant moins basées sur des données mesurées en temps réels que sur des études plus long terme sur les impacts (mortalités, maladies) liés à la pollution à l’échelle mondiale. C’est l’OMS qui par exemple a énoncé le nombre de 3 millions de morts prématurés dans le monde liés à la pollution aux particules fines.", 
+      "img":  "/images/carte/sante.png",
       "size": 40000
     },
     {
       "hero": "Airparif",
-      "name": "Mairie", 
-      "img":  "/images/critair/3.jpeg",
+      "name": "Airparif est une association indépendante chargée pour le compte de l’Etat et des pouvoirs publics, de la mise en œuvre des moyens de surveillance de la qualité de l’air. Ses missions sont de surveiller grâce à des dispositifs de mesure et des outils de simulation, et d’informer les citoyens de la situation quotidienne en terme de pollution. C’est Airparif qui déclare les pics de pollution, et qui publie les rapports annuels sur la qualité de l’air à Paris. ", 
+      "link" : "https://www.airparif.asso.fr",
+      "img":  "/images/carte/airparif.png",
       "size": 40000
     },
     {
       "hero": "Police", 
-      "name": "Police",
-      "link": "http://marvel.com/characters/60/thor",
-      "img":  "/images/critair/3.jpeg",
+      "name": "La préfecture de Police est une institution qui s’assure du bon respect de la loi. Ici, elle va s’assurer du respect du port de la vignette afin de garantir un respect sur l’accès au zone à circulation restreinte. Suite à une procédure, signée par décret le 7 mai 2017 et publié dans le journal officiel n°0108, la vignette Crit’air deviendra obligatoire dans certaines grandes villes à partir du 1er juillet 2017. La police devra, à partir de ce jour, garantir le respect de cette règle est donc infliger une amende de 68€ à tout automobiliste qui ne respecterais pas cette règle.",
+      "link": "https://www.prefecturedepolice.interieur.gouv.fr",
+      "img":  "/images/carte/police.png",
       "size": 40000
     }
   ]
   },
   {
    "hero": "Médias",
-   "name": "Médias",
-   "img": "/images/critair/5.jpeg",
-   "size": 40000
+   "name": "La presse quotidienne nationale tend généralement à avoir un avis objectif sur la question de la pertinence de la vignette : les journaux quotidiens essayent plutôt d’informer au mieux leurs lecteurs sur les vignettes Crit’air (catégories, dates limites, prix, moyens de s’en procurer, pollution…), comme dans cette <a href='http://www.humanite.fr/alerte-pollution-vignette-critair-circulation-differenciee-foire-aux-questions-630875'>F.A.Q.</a> de l’Humanité ou cet <a href='http://www.lefigaro.fr/conso/2017/05/11/20010-20170511ARTFIG00137-l-absence-de-vignette-crit-air-verbalisee-a-partir-du-1er-juillet.php'>article</a> du Figaro",
+   "img": "/images/carte/presse.jpg",
+   "size": 40000,
+    "children": [
+    {
+      "hero": "Le Monde",
+      "name": "Dans cet <a href='http://www.lemonde.fr/les-decodeurs/article/2016/12/09/la-pollution-de-l-air-en-9-questions_5046076_4355770.html'>article</a> du Monde qui recense les idées reçues (vraies ou fausses) sur la pollution, il est montré que l'on devrait aussi interdire le chauffage au bois chez les particuliers car il est plus responsable de la pollution en particules fines que les automobiles. Le parti pris de Ségolène Royale de sanctionner les automobilistes plutôt que les utilisateurs du chauffage au bois serait injustifié.",
+      "link" : "http://www.paris.fr",
+      "img":  "/images/carte/monde.png",
+      "size": 40000
+    },
+    {
+      "hero": "Libération",
+      "name": "Cet <a href='http://www.liberation.fr/futurs/2016/12/08/une-feuille-de-route-contre-la-pollution_1534008'>article</a> de Libération veut mettre l’accent sur le besoin urgent de lutter contre la pollution et montrer la pertinence des nombreuses mesures déjà prises par le gouvernement. Il soutient donc la mesure du Certificat Qualité de l’air.",
+      "link" : "http://www.developpement-durable.gouv.fr",
+      "img":  "/images/carte/libe.png",
+      "size": 40000
+    },
+    {
+      "hero": "La Tribune",
+      "name": "Cet <a href='http://www.latribune.fr/entreprises-finance/industrie/automobile/six-couleurs-et-24-pastilles-comprendre-l-usine-a-gaz-des-vignettes-automobiles-581953.html'>article</a> informe sur les vignettes Crit’air. A la fin, l’article évoque les limites de ces vignettes : le critère pris en compte est la norme Euro. Les vignettes favorisent donc les véhicules émetteurs en CO2.",
+      "link" : "http://www.developpement-durable.gouv.fr",
+      "img":  "/images/carte/tribune.png",
+      "size": 40000
+    },
+    {
+      "hero": "Challenges", 
+      "name": "Des articles plus minoritaires, comme <a href='https://www.challenges.fr/automobile/actu-auto/malus-vignette-crit-air-tva-le-gouvernement-se-contredit-lui-meme-sur-diesel_448723'>celui-ci</a> de Challenges, critiquent le gouvernement dans ses mesures contradictoires. En effet, le bonus-malus écologique qui favorisent les véhicules les moins émetteurs de CO2 n’est pas forcément compatible avec les vignettes Crit’air qui favorisent les véhicules les moins émetteurs en particules fines : entre un malus qui épargne le Diesel et une vignette CRIT'Air qui l'ostracise, l'automobiliste ne sait plus dans quel sens tourne le vent.",
+      "link": "https://www.prefecturedepolice.interieur.gouv.fr",
+      "img":  "/images/carte/challenges.png",
+      "size": 40000
+    }
+  ]
   },
     {
    "hero": "Constructeurs Automobile",
-   "name": "Constructeurs Automobile",
-   "img": "/images/critair/5.jpeg",
+   "name": "Sur la dernière décennie les constructeurs automobiles se sont efforcés de respecter les normes anti-pollution qui visent à réduire les émissions de CO2, et de suivre l’idée générale d’abandon du diesel. Les moteurs en vogue sont ainsi des moteurs de petite cylindrée, tournant à l’essence, avec un nombre de cylindres réduits. On peut citer par exemple la gamme EcoBoost de Ford ou la gamme EB Puretech du groupe PSA, moteurs 3 cylindres dotés de turbocompresseurs et de systèmes à injection directe, qui sont très populaires. Dans le milieu des voitures sport, un modèle emblématique est le moteur de 360 cheveux qui alimente la Mercedes Classe A, qui se cantonne à 4 cylindres avec une cylindrée de 2 litres. Le pari est réussi : pas de diesel, peu de CO2. Mais l’injection directe et les turbos sont également émetteurs de particules fines.",
+   "img": "/images/carte/constructeur.jpg",
    "size": 40000
   } 
  ]

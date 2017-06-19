@@ -1,0 +1,96 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+*:before,
+*:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html, button, input, select, textarea {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+	margin: 0;
+}
+.website-content {
+	max-width: 980px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+.smart-popin {
+    position: fixed;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    overflow: auto;
+
+    opacity: 0;
+    visibility: hidden;
+
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.smart-popin:target {
+    opacity: 1;
+    visibility: visible;
+}
+
+.smart-popin .sp-body {
+    background-color: #ffffff;
+    padding: 2em;
+    -webkit-box-shadow: 0 3px 5px 1px rgba(0,0,0,0.25);
+    box-shadow: 0 3px 5px 1px rgba(0,0,0,0.25);
+
+    width: 66.66%;
+    min-width: 300px;
+
+    margin: 0 auto;
+}
+.smart-popin .sp-table {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+.smart-popin .sp-cell {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 40px;
+}
+
+.smart-popin {
+    position: fixed;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+
+    overflow: auto;
+}
+
+.smart-popin .sp-back {
+    position: fixed;
+    left: 0; right: 0;
+    top: 0; bottom: 0;
+    display: block;
+}
+.smart-popin .sp-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 36px;
+    height: 36px;
+
+    text-align: center;
+    line-height: 36px;
+    font-size: 1.6em;
+    color: #000000;
+    font-weight: 900;
+    text-decoration: none;
+}
